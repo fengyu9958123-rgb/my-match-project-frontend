@@ -41,3 +41,4 @@ log/*.log
 
 utils/curl_to_yaml/output/
 utils/curl_to_yaml/curl_command.txt
+/node_modules/
